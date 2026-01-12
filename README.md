@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Devil2024
+- 👋 Hi, I’m Omar
 - 👀 I’m interested in learning programming and Data analysis and AI
 
 <!---
